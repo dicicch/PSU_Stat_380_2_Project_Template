@@ -11,6 +11,7 @@ Following this directory structure
 |--project_name                           <- Project root level that is checked into github
   |--project                              <- Project folder
     |--README.md                          <- Top-level README for developers
+    |--run_project.r                      <- Script to run build_features.r and train_model.r
     |--volume
     |   |--data
     |   |   |--external                   <- Data from third party sources
